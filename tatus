@@ -1,0 +1,53 @@
+[33mcommit 6c5aeb94e99f2e167db813de457cdd765ea2edb4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcreate_pagination[m[33m, [m[1;32mmain[m[33m)[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Thu Jan 11 19:52:47 2024 +0900
+
+    10 create_favorite_function
+
+[33mcommit c596e18414d3b51100dfa12f68f2b1398a78905f[m[33m ([m[1;32mcreate_reviews[m[33m)[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Thu Jan 11 01:20:32 2024 +0900
+
+    09 create_reviews
+
+[33mcommit df3434e4fa360b7533cb5edcb99df5c8ecface40[m[33m ([m[1;32madd_footer[m[33m)[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Thu Jan 11 00:49:52 2024 +0900
+
+    08 add_footer
+
+[33mcommit ee7a7d284d141ff46e04e5308ea64081907a83c3[m[33m ([m[1;32madd_header[m[33m)[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Thu Jan 11 00:43:48 2024 +0900
+
+    07 add_header
+
+[33mcommit 72381f02fe349379125083647199321cb75ca03a[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Thu Jan 11 00:21:43 2024 +0900
+
+    06 use_css_framework
+
+[33mcommit e4ce3a731ef8854f9b300d937d0017f6fa534cd8[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Wed Jan 10 20:21:18 2024 +0900
+
+    05 create login system
+
+[33mcommit 1497d77260a414ae979409d6ded1226076cccf58[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Wed Jan 10 01:35:31 2024 +0900
+
+    04 create products table
+
+[33mcommit 13bdaf58f14b65d276eff3c698c18b2776625c91[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Tue Jan 9 20:18:07 2024 +0900
+
+    03 create categories table
+
+[33mcommit 3e212f00f1e51022473cd7e9a6d577d029db6943[m
+Author: k-saiki1 <earthmirage01@gmail.com>
+Date:   Tue Jan 9 19:24:58 2024 +0900
+
+    first commit
